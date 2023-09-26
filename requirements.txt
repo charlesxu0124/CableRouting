@@ -1,0 +1,22 @@
+gym == 0.26.2
+gym[classic_control] == 0.26.2
+optax
+flax
+distrax
+ml_collections
+numpy
+scipy
+h5py
+scikit-learn
+jupyter
+tqdm
+absl-py
+wandb
+tensorflow-probability
+ipdb
+torch
+torchvision
+nvidia-cudnn-cu11
+nvidia-cuda-runtime-cu11
+nvidia-cuda-nvcc-cu11
+tensorflow
